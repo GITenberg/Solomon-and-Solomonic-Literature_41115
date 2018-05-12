@@ -1,0 +1,30 @@
+_repo: Solomon-and-Solomonic-Literature_41115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41115-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Conway, Moncure Daniel
+    alias: Conway, M. D. (Moncure Daniel)
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '1283'
+    url: http://www.gutenberg.org/2009/agents/1283
+    wikipedia: http://en.wikipedia.org/wiki/Moncure_Daniel_Conway
+description: ''
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41115'
+  lccn: '99004635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hebrew literature -- History and criticism'
+- !lcc 'BS'
+- !lcsh 'Solomon, King of Israel'
+title: Solomon and Solomonic Literature
+url: http://www.gutenberg.org/ebooks/41115
